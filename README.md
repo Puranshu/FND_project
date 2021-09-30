@@ -66,4 +66,8 @@
 
 If you have any feedback, please reach out to me at puranshu@iitg.ac.in.
 
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
   
