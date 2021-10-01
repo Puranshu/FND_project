@@ -2,7 +2,7 @@
 ### DATASET
 - https://www.kaggle.com/c/fake-news/data#
 ### Here 2 files are submitted: 
-- One is Fake News Detection by [NLP](https://github.com/Puranshu/FND_project/blob/main/FND_NLP_code.ipynb) techniques where we StopWords, Tokenisation, Lemmatization etc ([Course Project](https://drive.google.com/drive/folders/1ZBO2sUA6tarcFLq58T95YHoVmMZrnnUm?usp=sharing) with Akshit).
+- One is Fake News Detection by [NLP](https://github.com/Puranshu/FND_project/blob/main/FND_NLP_code.ipynb) techniques where we use StopWords, Tokenisation, Lemmatization etc ([Course Project](https://drive.google.com/drive/folders/1ZBO2sUA6tarcFLq58T95YHoVmMZrnnUm?usp=sharing) with Akshit).
 
 - In other one we used [Long-Short-Term-Memory](https://github.com/Puranshu/FND_project/blob/main/FND_LSTM_code.ipynb) (Neural Network) to achieve same agenda.
 
