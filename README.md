@@ -1,4 +1,4 @@
-# FND_project
+# Fake News Detection
 ### DATASET
 - https://www.kaggle.com/c/fake-news/data#
 ### Here 2 files are submitted: 
